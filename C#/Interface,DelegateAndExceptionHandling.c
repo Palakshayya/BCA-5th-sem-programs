@@ -1,6 +1,6 @@
 using System;
 
-// Interface
+// Interface 
 interface IPrinter
 {
     void Print(string msg);
